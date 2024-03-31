@@ -1,4 +1,4 @@
-# Federal Prison Data Scraper: ReadMe
+# Federal Prison Data Scraper
 
 ## Overview
 This Python script is designed to scrape data from all facility-level Bureau of Prisons (BOP) websites. It collects daily information including population size, visiting status, and operation levels of each individual federal facility. This tool is particularly useful for researchers, legal professionals, and journalists who require up-to-date information on BOP facility operating status and population sizes.
